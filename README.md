@@ -8,7 +8,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## My Certificate of Completion 
 
-https://github.com/upadhyatejas/JPMorgan-Virtual-Internship/blob/master/Certificate.png
+![](https://github.com/upadhyatejas/JPMorgan-Virtual-Internship/blob/master/Certificate.png)
 
 ## For any queries/doubts:
 
